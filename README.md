@@ -1,1 +1,1 @@
-This is a basic portfolio website.
+This repository has basic portfolio website,simple calculator website.
